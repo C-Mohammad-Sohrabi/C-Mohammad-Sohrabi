@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mohammad Sohrabi
 
-<!--
-**C-Mohammad-Sohrabi/C-Mohammad-Sohrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science student focused on systems programming,
+network security, applied cryptography, and algorithmic analysis.
 
-Here are some ideas to get you started:
+My current research focuses on the analysis and improvement of
+the ASCON authenticated encryption algorithm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Applied cryptography and lightweight cryptographic systems
+- Systems programming with C
+- Network protocols and network security
+- Algorithm design and complexity analysis
+- Secure and reliable software development
+
+## Technical Skills
+
+- **Programming:** C
+- **Systems:** Linux, memory management, debugging
+- **Networking:** TCP/IP, network protocols, socket programming
+- **Security:** Applied cryptography, authenticated encryption
+- **Tools:** Git, GCC, GDB, Make
+
+## Currently Working On
+
+- Researching potential improvements to ASCON
+- Developing production-quality projects in C
+- Strengthening software testing, benchmarking, and secure coding practices
