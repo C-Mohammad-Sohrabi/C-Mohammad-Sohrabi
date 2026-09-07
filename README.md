@@ -27,3 +27,17 @@ the ASCON authenticated encryption algorithm.
 - Researching potential improvements to ASCON
 - Developing production-quality projects in C
 - Strengthening software testing, benchmarking, and secure coding practices
+  
+## Selected Projects
+
+- [xxtea128-suite](https://github.com/C-Mohammad-Sohrabi/xxtea128-suite)  
+  Experimental XXTEA-derived authenticated-encryption research suite
+
+- [Lightweight_Port_Scanner](https://github.com/C-Mohammad-Sohrabi/Lightweight_Port_Scanner)  
+  Lightweight embeddable scanner with platform abstraction
+
+- [Lightweight_Packet_Capture](https://github.com/C-Mohammad-Sohrabi/Lightweight_Packet_Capture)  
+  Cross-platform packet capture and inspection tool
+
+- [Graph_Prj](https://github.com/C-Mohammad-Sohrabi/Graph_Prj)  
+  Comprehensive graph theory algorithms in C
