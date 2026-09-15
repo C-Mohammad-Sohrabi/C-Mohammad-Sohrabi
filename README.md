@@ -30,7 +30,7 @@ the ASCON authenticated encryption algorithm.
   
 ## Selected Projects
 
-- [xxtea128-suite](https://github.com/C-Mohammad-Sohrabi/xxtea128-suite)  
+- [txxtea128-suite](https://github.com/C-Mohammad-Sohrabi/txxtea128-suite.git)  
   Experimental XXTEA-derived authenticated-encryption research suite
 
 - [Lightweight_Port_Scanner](https://github.com/C-Mohammad-Sohrabi/Lightweight_Port_Scanner)  
